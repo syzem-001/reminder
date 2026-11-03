@@ -1,3 +1,4 @@
+
 # Adatok
 
 
@@ -6,4 +7,5 @@
 
 ## Tree
 
-![](./src/assets/tree.png)
+![](src/assets/tree.png)
+
